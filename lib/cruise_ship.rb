@@ -14,4 +14,5 @@ def select_winner(passengers)
       winner << value
     end
   end
+  winner
 end
